@@ -22,3 +22,5 @@ $cd ~/dev/learnTheHardWay
 ```
 Congrats! You now have the github repo on your local machine!
 
+
+  * After Python 'Learn The Hard Way' going to move onto Google's 'Foundations Path' exercises in a seperate repository [#GoogleFoundationsPath](https://techdevguide.withgoogle.com/paths/foundational/) 
