@@ -2,11 +2,8 @@ learnTheHardWay
 ======
 This is a learning repository for Zed Shaw's Book Series 'Learn The Hard Way,'
 created for brushing up on the syntax of programming languages.
-  
-  
-  
-  
-# To clone this repo:
+
+# To clone this repo:  
 
   * Install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
   * Verify install with terminal command $git --version*
