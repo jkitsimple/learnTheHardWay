@@ -13,9 +13,10 @@ $mkdir ~/dev
 ```
   * Change directories to your project folder & copy/paste the following git command:
 ```bash
+$ cd ~/dev
 $ git clone https://github.com/jkitsimple/learnTheHardWay.git
 ```
-## Change directories into the folder ./learnTheHardWay
+  * Change directories into the folder ./learnTheHardWay
 ```bash
 $cd ~/dev/learnTheHardWay
 ```
