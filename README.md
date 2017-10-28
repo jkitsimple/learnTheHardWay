@@ -2,10 +2,10 @@ Learning how to use GitHub & Programming Languages with Zed Shaw's 'Learn The Ha
 
 Quote from the author concerning this repository:
 
-    __"These solutions are better for when you are totally stuck.  Don't just come here to get the answer 
+    "These solutions are better for when you are totally stuck.  Don't just come here to get the answer 
     at the first sign of trouble.  Instead, work really hard to figure it out on your own and then 
     only when you are at the edge of your sanity come take a peek. Ideally, your first step should be 
-    to print every variable to figure out the problem."__
+    to print every variable to figure out the problem."
 
 	- Zed A. Shaw (Shavian Publishing, LLC)
 ======
