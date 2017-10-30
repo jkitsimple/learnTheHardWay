@@ -33,7 +33,7 @@
 ```bash
     $git commit -m "Chapter 1, I installed python 3 and wrote this script to test out my new installation on my mac air"
 ```
-  ++ Note, you can check which branch you are on and which files are 'added' for the next commit by:
+  + Note, you can check which branch you are on and which files are 'added' for the next commit by:
 
 ```bash
     git status
