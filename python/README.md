@@ -1,10 +1,4 @@
-+ Python download instructions go here
-
-+ Python Hello World instructions go here
-
-+ How to push up exercise 1 instructions go here
-
-## How to create a branch for learning python
+## How to create a branch for learning python & contributing to this Repository
 
 1. Change directories to your cloned github directory:
 
