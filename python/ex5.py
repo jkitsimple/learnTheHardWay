@@ -1,10 +1,10 @@
 my_name = 'Kevin'
-my_age = 35 # not a lie
-my_height = 74 # inches
-my_weight = 180 #lbs
-my_eyes = 'Blue'
+my_age = 26 # I feel older, but not as old as Eddie 
+my_height = 12 * 6 # inches
+my_weight = 195 #lbs
+my_eyes = 'Green'
 my_teeth = 'White'
-my_hair = 'Brown'
+my_hair = 'Blonde'
 
 print(f"Let's talk about {my_name}.")
 print(f"He's {my_height} inches tall.")
