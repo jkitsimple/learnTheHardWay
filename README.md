@@ -1,33 +1,18 @@
-Learning how to use GitHub & Programming Languages with Zed Shaw's 'Learn The Hard Way' book series
+# Study Drill - Challenege
 
-Quote from the author concerning this repository:
+## Here's What You Do:
 
-    "These solutions are better for when you are totally stuck.  Don't just come here to get the answer 
-    at the first sign of trouble.  Instead, work really hard to figure it out on your own and then 
-    only when you are at the edge of your sanity come take a peek. Ideally, your first step should be 
-    to print every variable to figure out the problem."
-
-	- Zed A. Shaw (Shavian Publishing, LLC)
-======
-
-# To clone this repo:  
-
-  * Install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-  * Verify install with terminal command $git --version*
-  * Open Terminal, make a directory for your coding projects 
-```bash
-$mkdir ~/dev
-```
-  * Change directories to your project folder & copy/paste the following git command:
-```bash
-$ cd ~/dev
-$ git clone https://github.com/jkitsimple/learnTheHardWay.git
-```
-  * Change directories into the folder ./learnTheHardWay
-```bash
-$cd ~/dev/learnTheHardWay
-```
-Congrats! You now have the github repo on your local machine!
+1.  Find all the errors in my python/ex6.py file
+2.  Use python/solutions/ex6.txt as the file to test against.  
+  * What this means, is the unbroken or 'debugged' version of ex6.py will give the output that can be found on the python/solutions/ex6.txt file.  
+  * Hint, I created that file by running the command:
+    ```bash
+    python3 python/ex6.py > python/solutions/ex6.txt
+    ```
+3.  Fork this branch into your personal github repository and checkout the branch to your local machine.  Then, do the following for each bug you find:
+  * Create a commit for 1 bug and include a message about the bug in the commit message
+  * I think I have about 5-6 bugs, (I'm guessing, I can't rememebr) so I would expect 5-6 commits added onto this branch.  
+  * Then, when all the bugs have been found and you can get the same solutions/ex6.txt file that I have.. 
+  * Create a Pull-Request and I'll be able to see the bug fixes you've proposed and make a decision whether or not to take your code as the fix for my branch.
 
 
-  * In the future, I would like to work on this set of python exercises too! [#GoogleFoundationsPath](https://techdevguide.withgoogle.com/paths/foundational/) 
